@@ -1,5 +1,5 @@
 #  About Me:
-Software Engineer. Working on @AutoZone
+Software Engineer. Working at @AutoZone
 
 
 ## Socials:
